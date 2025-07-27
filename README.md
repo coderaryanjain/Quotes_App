@@ -22,6 +22,14 @@ The app features a clean, modern interface with:
 - Author attribution with elegant styling
 - Two action buttons: Timer toggle and Next Quote
 
+## 🎬 Demo
+
+Check out the app in action! The demo video showcases all the key features including the smooth animations, timer functionality, and quote transitions.
+
+**[📹 View Demo Video](../demo/quotes-app-demo.mov)**
+
+*Note: Click the link above to download and view the demo video, or navigate to the `demo/` folder in the project directory.*
+
 ## Technical Details
 
 - **Platform**: iOS
